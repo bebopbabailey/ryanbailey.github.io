@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ryanbailey.github.io/sitemap.xml
+Sitemap: https://ryanbailey.dev/sitemap.xml
