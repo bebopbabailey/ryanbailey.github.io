@@ -23,6 +23,12 @@ and securely store data using a local database.
 ## Execution
 This application is executed locally using Android Studio and demonstrated in the Panopto recording submitted with the project.
 
+## Download
+[Download Vacation Scheduler (APK)](/downloads/vacation-scheduler/VacationScheduler.apk)
+- Android may require enabling "Install unknown apps" for your browser.
+- Download the APK, open it, then follow prompts to install.
+- If blocked, check Settings → Security / Privacy → Install unknown apps.
+
 ## Screenshots
 ![PIN Setup](/assets/img/vacation-scheduler/setupPIN.png)
 ![App Lock](/assets/img/vacation-scheduler/PINRequired.png)
