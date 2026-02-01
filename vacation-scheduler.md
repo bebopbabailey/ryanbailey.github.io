@@ -37,6 +37,8 @@ This application is executed locally using Android Studio and demonstrated in th
 ![Unit Test](/assets/img/vacation-scheduler/unitTestSuccess.png)
 ![Unit Test 2](/assets/img/vacation-scheduler/unitTestSuccessCLI.png)
 
+
+
 <!-- APK_LINK_START -->
 **Download (signed release APK):** [https://ryanbailey.dev/downloads/vacation-scheduler/VacationScheduler.apk](https://ryanbailey.dev/downloads/vacation-scheduler/VacationScheduler.apk)
 <!-- APK_LINK_END -->
