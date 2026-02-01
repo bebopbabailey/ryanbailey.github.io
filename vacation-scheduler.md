@@ -18,7 +18,7 @@ and securely store data using a local database.
 
 ## Repository
 - GitLab: [Repository](https://gitlab.com/wgu-gitlab-environment/student-repos/cbai136/d424-software-engineering-capstone/-/tree/working?ref_type=heads)
-- Version demonstrated: [Commit 5567f5e](https://gitlab.com/wgu-gitlab-environment/student-repos/cbai136/d424-software-engineering-capstone/-/commit/5567f5e)
+- Version demonstrated: [Commit 5495841](https://gitlab.com/wgu-gitlab-environment/student-repos/cbai136/d424-software-engineering-capstone/-/commit/5495841)
 
 ## Execution
 This application is executed locally using Android Studio and demonstrated in the Panopto recording submitted with the project.
