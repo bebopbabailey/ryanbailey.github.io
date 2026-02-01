@@ -36,3 +36,11 @@ This application is executed locally using Android Studio and demonstrated in th
 ![Generate Report](/assets/img/vacation-scheduler/report.png)
 ![Unit Test](/assets/img/vacation-scheduler/unitTestSuccess.png)
 ![Unit Test 2](/assets/img/vacation-scheduler/unitTestSuccessCLI.png)
+
+<!-- APK_LINK_START -->
+**Download (signed release APK):** [https://ryanbailey.dev/downloads/vacation-scheduler/VacationScheduler.apk](https://ryanbailey.dev/downloads/vacation-scheduler/VacationScheduler.apk)
+<!-- APK_LINK_END -->
+
+<!-- VERSION_START -->
+**Version deployed:** [5567f5e](https://gitlab.com/wgu-gitlab-environment/student-repos/cbai136/d424-software-engineering-capstone/-/commit/5567f5ee5e1475f5b8cf3ff838d005dd904e0084)
+<!-- VERSION_END -->
